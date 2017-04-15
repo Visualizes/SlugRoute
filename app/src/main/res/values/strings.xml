@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SlugRoute</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ok">Okay</string>
+    <string name="title_location_permission">TITLE</string>
+    <string name="text_location_permission">TEXT</string>
+</resources>
